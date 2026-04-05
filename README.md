@@ -1,6 +1,6 @@
 # Who am I?
 
-3+ years building in India's fintech ecosystem — account aggregation, regtech, lending, and wealth management. Driven by curiosity for new tech and a passion for turning 'what if' ideas into tangible products.
+3+ years building in India's fintech ecosystem - account aggregation, regtech, lending, and wealth management. Driven by curiosity for new tech and a passion for turning 'what if' ideas into tangible products.
 
 Now shipping AI-native products end-to-end.
 
@@ -18,13 +18,13 @@ Claude Cowork (product thinking & strategy), Claude Code + Loveable (building), 
 
 ## Featured Work
 
-1. **Sahamati Hackathon** — Account aggregation product built with my team. Hackathon nominee for Sahamati × Dev Folio. https://github.com/om-prakash-b/Sahamati-hackathon-nominee-ninja-
-2. **Regtech1** — Regulatory tech exploration. https://github.com/om-prakash-b/Regtech1
-3. **Dhan Product Improvement** — A detailed UX teardown of the Dhan app with solutions to improve the user experience. https://github.com/om-prakash-b/Dhan-product-improvement
+1. **Sahamati Hackathon** - Account aggregation product built with my team. Hackathon nominee for Sahamati × Dev Folio. https://github.com/om-prakash-b/Sahamati-hackathon-nominee-ninja-
+2. **Regtech1** - Regulatory tech exploration. https://github.com/om-prakash-b/Regtech1
+3. **Dhan Product Improvement** - A detailed UX teardown of the Dhan app with solutions to improve the user experience. https://github.com/om-prakash-b/Dhan-product-improvement
 
 ## Thinking & Portfolio
 
-Everything I'm building, learning, and shipping —documented here: https://longing-orangutan-926.notion.site/Om-Prakash-Portfolio-004d28692389431dab7a28b86463ae0d
+Everything I'm building, learning, and shipping - documented here: https://longing-orangutan-926.notion.site/Om-Prakash-Portfolio-004d28692389431dab7a28b86463ae0d
 
 ## Connect
 
