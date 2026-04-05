@@ -6,11 +6,11 @@ Now shipping AI-native products end-to-end.
 
 ## What I'm Building Now
 
-1. A B2C Compliance Tracker to bridge the gap between complex legal mandates and daily product operations — monitors data-handling health in real-time so compliance is a live dashboard, not a quarterly panic.
+B2C Compliance Tracker to bridge the gap between complex legal mandates and daily product operations — monitors data-handling health in real-time so compliance is a live dashboard, not a quarterly panic.
 
 ## Domain Expertise
 
-Account Aggregation, RegulatoryTech, Lending, Wealth Management
+Account Aggregation, Lending, Wealth Management, RegTech
 
 ## Tech Stack
 
@@ -19,12 +19,12 @@ Claude Cowork (product thinking & strategy), Claude Code + Loveable (building), 
 ## Featured Work
 
 1. **Sahamati Hackathon** — Account aggregation product built with my team. Hackathon nominee for Sahamati × Dev Folio. https://github.com/om-prakash-b/Sahamati-hackathon-nominee-ninja-
-2. **Dhan Product Improvement** — A detailed UX teardown of the Dhan app with solutions to improve the user experience. https://github.com/om-prakash-b/Dhan-product-improvement
-3. **Regtech1** — Regulatory tech exploration. https://github.com/om-prakash-b/Regtech1
+2. **Regtech1** — Regulatory tech exploration. https://github.com/om-prakash-b/Regtech1
+3. **Dhan Product Improvement** — A detailed UX teardown of the Dhan app with solutions to improve the user experience. https://github.com/om-prakash-b/Dhan-product-improvement
 
 ## Thinking & Portfolio
 
-Everything I'm building, learning, and shipping — documented here: https://longing-orangutan-926.notion.site/Om-Prakash-Portfolio-004d28692389431dab7a28b86463ae0d
+Everything I'm building, learning, and shipping —documented here: https://longing-orangutan-926.notion.site/Om-Prakash-Portfolio-004d28692389431dab7a28b86463ae0d
 
 ## Connect
 
