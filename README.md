@@ -6,7 +6,7 @@ Now shipping AI-native products end-to-end.
 
 ## What I'm Building Now
 
-B2C Compliance Tracker to bridge the gap between complex legal mandates and daily product operations — monitors data-handling health in real-time so compliance is a live dashboard, not a quarterly panic.
+B2C Compliance Tracker to bridge the gap between complex legal mandates and daily product operations - monitors data-handling health in real-time so compliance is a live dashboard, not a quarterly panic.
 
 ## Domain Expertise
 
